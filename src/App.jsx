@@ -117,6 +117,7 @@ const App = () => {
         onStartAddProject={handleStartAddProject}
         onSelectProject={handleSelectProject}
         projects={projectsState.projects}
+        selectedProjectId={projectsState.selectedProjectId}
       />
       {content}
     </main>
