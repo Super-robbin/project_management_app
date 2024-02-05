@@ -8,6 +8,7 @@ A Project Management App that helps you keep track of your projects and tasks. Y
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-turquoise?logo=TailwindCSS)
 ![React](https://img.shields.io/badge/React-grey?logo=React)
 
 ## Quickstart
