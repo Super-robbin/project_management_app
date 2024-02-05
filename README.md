@@ -1,6 +1,6 @@
 # Project Management App
 
-A Project Management App that helps you keep track of your projects and tasks. 
+A Project Management App that helps you keep track of your projects and tasks. You can create a new project and delete it. Within that project, you can add multiple tasks, including deadlines. You can then delete those tasks once they are complete.
 
 ## Tech stack
 
