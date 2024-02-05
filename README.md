@@ -1,8 +1,33 @@
-# React + Vite
+# Project Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Project Management App that helps you keep track of your projects and tasks. 
 
-Currently, two official plugins are available:
+## Tech stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Frontend:**
+![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
+![React](https://img.shields.io/badge/React-grey?logo=React)
+
+## Quickstart
+
+### Set up your project
+
+1. Fork this repository
+2. Clone your fork to your local machine
+3. Install Node.js dependencies
+
+   ```bash
+   npm install
+   ```
+
+4. Install an ESLint plugin for your editor. For example: [`linter-eslint`](https://github.com/AtomLinter/linter-eslint) for Atom.
+
+### Start the server
+
+1. Start the front end application
+
+   ```bash
+   npm run dev
+   ```
